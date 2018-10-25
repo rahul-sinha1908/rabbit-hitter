@@ -17,9 +17,9 @@ TagManager:
   - ImageTarget
   - Walls
   - Ball
-  - 
-  - 
-  - 
+  - Floor
+  - Rabbit
+  - WallMove
   - 
   - 
   - 

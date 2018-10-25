@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4864060195884428}
   - component: {fileID: 137682835904614838}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: SK_Rabbit_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35,7 +35,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4985838580576862}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -50,7 +50,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4225201967562006}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Pelvis
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65,7 +65,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4748926832200742}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ L UpperArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80,7 +80,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4197853974331788}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ R Forearm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,7 +96,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4858716008929230}
   - component: {fileID: 137617081241797124}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: SK_Rabbit_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111,7 +111,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4954846210759950}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ R Foot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127,7 +127,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4487504551578854}
   - component: {fileID: 137173929751383962}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: SK_Rabbit_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -142,7 +142,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4409997484678472}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Queue de cheval 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -157,7 +157,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4072293861103172}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Footsteps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -172,7 +172,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4212754707312376}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ L Foot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -187,7 +187,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4124193607657222}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -206,7 +206,7 @@ GameObject:
   - component: {fileID: 205618328388871620}
   - component: {fileID: 143626929689024008}
   - component: {fileID: 114702854006221028}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Rabbit_PBR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -221,7 +221,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4594437489558874}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ L Calf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -236,7 +236,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4394390350977062}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ L Thigh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -251,7 +251,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4291771974885636}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ R Toe0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -266,7 +266,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4636759473725332}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Neck1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -281,7 +281,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4518925406291328}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -296,7 +296,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4538577093428118}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -311,7 +311,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4682603335305996}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -326,7 +326,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4134162062001024}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ L Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -341,7 +341,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4186118887568214}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ L Forearm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -357,7 +357,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4732894779534302}
   - component: {fileID: 137812508248441386}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: SK_Rabbit_LOD3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -372,7 +372,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4829096033626060}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Spine1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -387,7 +387,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4114691249841196}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ Queue de cheval 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -402,7 +402,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4108227971659912}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ R UpperArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -417,7 +417,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4844468941779202}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ R Clavicle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -432,7 +432,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4656466131133904}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ L Clavicle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -447,7 +447,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4395078913849060}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ R Hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -462,7 +462,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4057053909774296}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ L Toe0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -477,7 +477,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4458838053298428}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ R Calf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -492,7 +492,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4691671260829376}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: RABBIT_ R Thigh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -658,7 +658,7 @@ Transform:
   m_GameObject: {fileID: 1319350056986706}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4682603335305996}
   - {fileID: 4487504551578854}
@@ -975,15 +975,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65ddd55bd268a1a42aeea9c128792510, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 1
-  gallopSpeed: 1
+  walkSpeed: 0.5
+  gallopSpeed: 0.75
 --- !u!137 &137173929751383962
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1212530188750336}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -1055,7 +1055,7 @@ SkinnedMeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1159457671199306}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -1127,7 +1127,7 @@ SkinnedMeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1008880912870582}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -1198,7 +1198,7 @@ SkinnedMeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1604052462737064}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1

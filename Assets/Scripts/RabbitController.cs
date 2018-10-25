@@ -19,6 +19,7 @@ namespace RabbitHitter {
 		private int moveIndex;
 
 		private bool isMoving;
+		private bool isDead = false;
 		private Vector3 moveDirection;
 		private System.Random random;
 
@@ -66,6 +67,9 @@ namespace RabbitHitter {
 		}
 		// Update is called once per frame
 		void Update() {
+			if (isDead)
+				return;
+
 			if (isMoving) {
 				float turn = random.Next(-10, 100);
 				if (turn > 10)
@@ -82,6 +86,7 @@ namespace RabbitHitter {
 		}
 
 		public void killRabbit() {
+			isDead = true;
 			animator.SetBool(AnimAction.death.ToString(), true);
 			Destroy(gameObject, 3);
 		}
